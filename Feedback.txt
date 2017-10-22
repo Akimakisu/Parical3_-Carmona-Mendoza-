@@ -1,0 +1,12 @@
+Feedback:
+
+1. (1.5/2.0)
+* La relación de agregación desde Composite era uno de los errores a corregir.
+* La adición de métodos a Task era innecesaria. El modelo es genérico.
+* Qué diferencia hay entre Sequence.Evaluar() y Sequence.Exitoso()?
+
+2 (0.0/3.0)
+* No hay nada implementado de árboles de comportamiento.
+* El movimeinto se hizo como un código aparte, no como un task.
+
+Nota: 1.5
